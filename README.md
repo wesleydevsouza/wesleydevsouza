@@ -2,4 +2,4 @@
 - 🎮 Gosto de desenvolver jogos, jogar, desenhar, resolver e desenvolver puzzles. 
 - 💻 Atualmente estou estudando Flutter/Dart, C# e C++ .
 - 🕹 Estou interessado em trabalhar na área de desenvolvimento de jogos.
-- 📫 Você pode me contatar através do LinkdIn: https://www.linkedin.com/in/wesley-souza-469553227
+- 📫 Você pode me contatar através do LinkedIn: https://www.linkedin.com/in/wesley-souza-469553227
