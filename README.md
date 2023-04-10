@@ -3,5 +3,4 @@
     para softwares e planejo crescer na área de desenvolvimento Desktop com C# e C++ e futuramente na área de Games.
     Uma de minhas paixões é descobrir novas tecnologias e poder colocá-las em prática.
 - 💻 Atualmente estou estudando Flutter/Dart, C# e C++.
-- 🎮 Você pode conferir meus projetos de jogos lançados na Itch: https://lux-lucent.itch.io
 - 📫 Você pode me contatar através do LinkedIn: https://www.linkedin.com/in/wesley-souza-469553227
