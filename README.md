@@ -18,4 +18,4 @@ Sempre busco aprender e aplicar novas tecnologias, mantendo-me atualizado com as
 
 ### 📫 Vamos conversar?
 
-Você pode me encontrar no [LinkedIn]([https://www.linkedin.com/seu-perfil-aqui](https://www.linkedin.com/in/wesley-souza-469553227)
+Você pode me encontrar no [LinkedIn]([https://www.linkedin.com/in/wesley-souza-469553227/])]
